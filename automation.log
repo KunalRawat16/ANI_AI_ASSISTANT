@@ -1,0 +1,844 @@
+2025-05-05 00:40:44,673 - INFO - Performed Google search for: python programming
+2025-05-05 00:40:46,286 - INFO - Opened application: notepad
+2025-05-05 00:40:47,645 - INFO - Executed system command: volume up
+2025-05-05 00:41:30,649 - INFO - Performed Google search for: python programming
+2025-05-05 00:41:31,949 - INFO - Opened application: notepad
+2025-05-05 00:41:32,711 - INFO - Executed system command: volume up
+2025-05-05 00:41:32,715 - INFO - Executed system command: volume down
+2025-05-05 00:41:34,365 - INFO - Playing YouTube video for: python tutorial
+2025-05-05 00:41:35,280 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-05-05 00:41:35,304 - ERROR - Error generating AI content: Error code: 400 - {'error': {'message': 'The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-05-05 00:41:35,335 - ERROR - Failed to generate content
+2025-05-05 00:42:55,778 - INFO - Performed Google search for: python programming
+2025-05-05 00:42:56,990 - INFO - Opened application: notepad
+2025-05-05 00:42:57,754 - INFO - Executed system command: volume up
+2025-05-05 00:42:57,757 - INFO - Executed system command: volume down
+2025-05-05 00:42:58,930 - INFO - Playing YouTube video for: python tutorial
+2025-05-05 00:42:59,772 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-05-05 00:42:59,794 - ERROR - Error generating AI content: Error code: 400 - {'error': {'message': 'The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
+2025-05-05 00:42:59,806 - ERROR - Failed to generate content
+2025-05-05 00:47:33,588 - INFO - Performed Google search for: python programming
+2025-05-05 00:47:34,952 - INFO - Opened application: notepad
+2025-05-05 00:47:35,794 - INFO - Executed system command: volume up
+2025-05-05 00:47:35,817 - INFO - Executed system command: volume down
+2025-05-05 00:47:37,235 - INFO - Playing YouTube video for: python tutorial
+2025-05-05 00:47:39,147 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 00:47:40,293 - INFO - Content saved to Data\content_python_programming.txt
+2025-05-05 00:47:40,444 - INFO - Opened Data\content_python_programming.txt in text editor
+2025-05-05 00:50:54,132 - INFO - ====== WebDriver manager ======
+2025-05-05 00:50:56,145 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 00:50:56,484 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 00:50:56,702 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 00:51:11,853 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 00:51:13,688 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 00:51:23,396 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 00:51:24,520 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 00:51:51,901 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 00:51:52,388 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 00:52:11,919 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 00:52:14,012 - INFO - Opened application: setting
+2025-05-05 01:10:35,253 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:10:35,269 - INFO - Groq API connection successful
+2025-05-05 01:10:35,269 - INFO - Initialization complete
+2025-05-05 01:11:17,570 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:11:17,570 - INFO - Groq API connection successful
+2025-05-05 01:11:17,584 - INFO - Initialization complete
+2025-05-05 01:11:17,786 - INFO - Performed Google search for: python programming
+2025-05-05 01:11:19,888 - INFO - Opened application: notepad
+2025-05-05 01:11:21,447 - INFO - Executed system command: volume up
+2025-05-05 01:11:22,061 - INFO - Executed system command: volume down
+2025-05-05 01:11:23,237 - INFO - Opened YouTube search for: python tutorial
+2025-05-05 01:11:24,758 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:11:25,847 - INFO - Content saved to Data\content_write_a_short_introduction_to_python_programming.txt
+2025-05-05 01:11:26,048 - INFO - Opened Data\content_write_a_short_introduction_to_python_programming.txt in text editor
+2025-05-05 01:11:28,700 - INFO - Performed Google search for: python asyncio
+2025-05-05 01:11:29,217 - INFO - Executed system command: volume up
+2025-05-05 01:12:22,015 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:12:22,015 - INFO - Groq API connection successful
+2025-05-05 01:12:22,015 - INFO - Initialization complete
+2025-05-05 01:12:22,212 - INFO - Performed Google search for: python programming
+2025-05-05 01:12:24,886 - INFO - Opened application: notepad
+2025-05-05 01:12:26,473 - INFO - Executed system command: volume up
+2025-05-05 01:12:26,998 - INFO - Executed system command: volume down
+2025-05-05 01:12:28,058 - INFO - Opened YouTube search for: python tutorial
+2025-05-05 01:12:29,346 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:12:30,042 - INFO - Content saved to Data\content_write_a_short_introduction_to_python_programming.txt
+2025-05-05 01:12:30,193 - INFO - Opened Data\content_write_a_short_introduction_to_python_programming.txt in text editor
+2025-05-05 01:12:32,064 - INFO - Performed Google search for: python asyncio
+2025-05-05 01:12:32,574 - INFO - Executed system command: volume up
+2025-05-05 01:13:17,543 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:13:17,547 - INFO - Groq API connection successful
+2025-05-05 01:13:17,807 - INFO - ====== WebDriver manager ======
+2025-05-05 01:13:19,610 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:13:19,872 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:13:20,126 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:14:05,544 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:14:05,544 - INFO - Groq API connection successful
+2025-05-05 01:14:05,786 - INFO - ====== WebDriver manager ======
+2025-05-05 01:14:07,857 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:14:08,067 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:14:08,256 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:14:41,731 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:14:42,034 - INFO - Performed YouTube search for: main tum hi ho song
+2025-05-05 01:21:08,742 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:21:08,745 - INFO - Groq API connection successful
+2025-05-05 01:21:09,085 - INFO - ====== WebDriver manager ======
+2025-05-05 01:21:10,858 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:21:11,068 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:21:11,271 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:21:29,778 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:21:30,294 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:21:50,702 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:21:51,229 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:23:08,416 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:23:08,426 - INFO - Groq API connection successful
+2025-05-05 01:23:08,700 - INFO - ====== WebDriver manager ======
+2025-05-05 01:23:10,504 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:23:11,066 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:23:11,294 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:23:29,050 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:23:29,573 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:23:52,659 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:23:53,154 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:29:43,224 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:29:43,224 - INFO - Groq API connection successful
+2025-05-05 01:29:43,509 - INFO - ====== WebDriver manager ======
+2025-05-05 01:29:45,449 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:29:45,655 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:29:45,859 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:30:04,467 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:30:06,168 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:30:39,956 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:30:40,341 - INFO - Executed system command: volume down
+2025-05-05 01:30:46,874 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:30:46,882 - INFO - Executed system command: volume down
+2025-05-05 01:30:53,279 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:30:53,287 - INFO - Executed system command: volume down
+2025-05-05 01:31:02,728 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:31:02,737 - INFO - Executed system command: volume down
+2025-05-05 01:31:14,217 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:31:14,686 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:31:15,458 - INFO - Content saved to Data\content_leave_application.txt
+2025-05-05 01:31:15,759 - INFO - Opened Data\content_leave_application.txt in text editor
+2025-05-05 01:31:25,432 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:31:26,200 - INFO - Closed application: notepad
+2025-05-05 01:31:39,954 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:31:41,539 - INFO - Opened application: system setting
+2025-05-05 01:31:48,010 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:31:48,755 - INFO - Closed application: it
+2025-05-05 01:33:30,473 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:33:30,488 - INFO - Groq API connection successful
+2025-05-05 01:33:30,738 - INFO - ====== WebDriver manager ======
+2025-05-05 01:33:32,554 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:33:32,789 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:33:32,992 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:34:19,311 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:34:19,327 - INFO - Groq API connection successful
+2025-05-05 01:34:19,588 - INFO - ====== WebDriver manager ======
+2025-05-05 01:34:21,349 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:34:21,563 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:34:21,785 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:35:38,623 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:35:38,630 - INFO - Groq API connection successful
+2025-05-05 01:35:39,137 - INFO - ====== WebDriver manager ======
+2025-05-05 01:35:43,750 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:35:43,970 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:35:44,181 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:36:21,528 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:36:21,537 - INFO - Groq API connection successful
+2025-05-05 01:36:21,948 - INFO - ====== WebDriver manager ======
+2025-05-05 01:36:24,052 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:36:24,260 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:36:24,456 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:37:13,722 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:37:13,724 - INFO - Groq API connection successful
+2025-05-05 01:37:14,041 - INFO - ====== WebDriver manager ======
+2025-05-05 01:37:15,994 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:37:16,199 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:37:16,411 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:37:51,805 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:37:51,813 - INFO - Groq API connection successful
+2025-05-05 01:37:52,094 - INFO - ====== WebDriver manager ======
+2025-05-05 01:37:53,954 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:37:54,139 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:37:54,373 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:39:07,489 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:39:07,489 - INFO - Groq API connection successful
+2025-05-05 01:39:07,778 - INFO - ====== WebDriver manager ======
+2025-05-05 01:39:09,593 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:39:09,811 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:39:10,027 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:39:25,988 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:39:27,254 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:39:52,542 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:39:52,958 - INFO - Executed system command: volume up
+2025-05-05 01:42:56,579 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:42:56,583 - INFO - Groq API connection successful
+2025-05-05 01:42:56,870 - INFO - ====== WebDriver manager ======
+2025-05-05 01:42:58,723 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:42:59,002 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:42:59,203 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:43:11,723 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:43:12,198 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:43:32,197 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:43:37,733 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:43:55,981 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:44:09,507 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:44:23,456 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:44:23,943 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:45:00,476 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:45:00,952 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:45:02,866 - INFO - Content saved to Data\content_vrindavan_trip.txt
+2025-05-05 01:45:02,991 - INFO - Opened Data\content_vrindavan_trip.txt in text editor
+2025-05-05 01:45:13,987 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:45:14,696 - INFO - Closed application: notebook
+2025-05-05 01:45:27,767 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:45:28,245 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:46:05,971 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:46:06,617 - INFO - Closed application: notepad
+2025-05-05 01:46:12,374 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:46:13,441 - INFO - Opened application: system setting
+2025-05-05 01:46:28,941 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:46:29,632 - INFO - Closed application: system setting
+2025-05-05 01:46:42,844 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:46:43,093 - INFO - Opened YouTube search for: tumse achcha kaun hai
+2025-05-05 01:51:11,061 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:51:11,079 - INFO - Groq API connection successful
+2025-05-05 01:51:11,397 - INFO - ====== WebDriver manager ======
+2025-05-05 01:51:13,449 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:51:14,155 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:51:14,382 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:51:34,738 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:51:35,223 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:52:54,908 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:52:54,916 - INFO - Groq API connection successful
+2025-05-05 01:52:55,203 - INFO - ====== WebDriver manager ======
+2025-05-05 01:52:57,070 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:52:57,303 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:52:57,528 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:54:15,186 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:54:15,188 - INFO - Groq API connection successful
+2025-05-05 01:54:15,612 - INFO - ====== WebDriver manager ======
+2025-05-05 01:54:17,776 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:54:18,008 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:54:18,224 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:54:32,681 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:54:33,212 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:55:44,975 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:55:44,987 - INFO - Groq API connection successful
+2025-05-05 01:55:45,276 - INFO - ====== WebDriver manager ======
+2025-05-05 01:55:47,483 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:55:47,692 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:55:47,874 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:56:56,324 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:56:56,340 - INFO - Groq API connection successful
+2025-05-05 01:56:56,667 - INFO - ====== WebDriver manager ======
+2025-05-05 01:56:58,648 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:56:58,852 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:56:59,086 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 01:57:18,999 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 01:57:19,466 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:59:56,652 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 01:59:56,653 - INFO - Groq API connection successful
+2025-05-05 01:59:56,936 - INFO - ====== WebDriver manager ======
+2025-05-05 01:59:58,825 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:59:59,068 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 01:59:59,295 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 02:00:16,570 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 02:04:47,069 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 02:04:47,088 - INFO - Groq API connection successful
+2025-05-05 02:04:47,376 - INFO - ====== WebDriver manager ======
+2025-05-05 02:04:49,412 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 02:04:49,711 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 02:04:49,973 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 02:05:09,942 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 02:07:06,367 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 02:07:06,372 - INFO - Groq API connection successful
+2025-05-05 02:07:06,691 - INFO - ====== WebDriver manager ======
+2025-05-05 02:07:08,593 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 02:07:08,804 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 02:07:09,023 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 02:07:23,097 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 02:07:23,807 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 02:07:48,750 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 02:07:49,250 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 02:10:48,941 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 02:10:48,958 - INFO - Groq API connection successful
+2025-05-05 02:10:49,371 - INFO - ====== WebDriver manager ======
+2025-05-05 02:10:51,324 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 02:10:51,560 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 02:10:51,777 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 02:11:06,883 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 02:11:07,394 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 02:14:11,815 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 02:14:11,823 - INFO - Groq API connection successful
+2025-05-05 02:14:12,113 - INFO - ====== WebDriver manager ======
+2025-05-05 02:14:14,247 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 02:14:14,555 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 02:14:14,764 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 02:15:41,447 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 02:15:41,459 - INFO - Groq API connection successful
+2025-05-05 02:15:41,755 - INFO - ====== WebDriver manager ======
+2025-05-05 02:15:43,813 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 02:15:44,118 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 02:15:44,359 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 02:20:26,475 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 02:20:26,477 - INFO - Groq API connection successful
+2025-05-05 02:20:26,782 - INFO - ====== WebDriver manager ======
+2025-05-05 02:20:28,734 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 02:20:28,948 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 02:20:29,159 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 02:20:49,821 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 02:20:50,840 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 02:21:25,869 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 02:21:26,402 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 02:21:37,302 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 02:21:37,794 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 02:21:56,472 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 02:21:56,494 - INFO - Groq API connection successful
+2025-05-05 02:21:56,812 - INFO - ====== WebDriver manager ======
+2025-05-05 02:21:58,898 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 02:21:59,098 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-05 02:21:59,306 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver.exe] found in cache
+2025-05-05 02:22:13,766 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 02:22:14,290 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-05 02:22:30,646 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 02:22:30,651 - WARNING - No function found for: system
+2025-05-05 02:22:38,446 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 02:22:39,470 - INFO - Opened application: system setting
+2025-05-05 02:22:47,315 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 02:22:47,322 - WARNING - Unsupported system command: setting
+2025-05-05 02:22:54,597 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 02:22:54,605 - WARNING - Unsupported system command: clothes
+2025-05-05 02:23:02,436 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 02:23:03,475 - INFO - Closed application: system data
+2025-05-05 02:23:13,195 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-05 02:23:13,428 - INFO - Opened YouTube search for: sab tum hi ho
+youtube search sab tum hi ho
+2025-05-07 16:45:29,508 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 16:45:29,522 - INFO - Groq API connection successful
+2025-05-07 16:45:30,084 - INFO - ====== WebDriver manager ======
+2025-05-07 16:45:32,963 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-07 16:45:33,598 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-07 16:45:34,030 - INFO - There is no [win64] chromedriver "136.0.7103.92" for browser google-chrome "136.0.7103" in cache
+2025-05-07 16:45:34,030 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-07 16:45:35,514 - INFO - WebDriver version 136.0.7103.92 selected
+2025-05-07 16:45:35,520 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-07 16:45:35,520 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-07 16:45:35,891 - INFO - Driver downloading response is 200
+2025-05-07 16:45:59,641 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-07 16:46:05,290 - INFO - Driver has been saved in cache [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92]
+2025-05-07 16:46:53,121 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 16:46:53,191 - INFO - Could not open as local app: YOUTUBE is not running
+2025-05-07 16:46:57,126 - WARNING - No suitable links found for: youtube
+2025-05-07 16:47:14,275 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 16:47:14,564 - INFO - Opened YouTube search for: love story by taylor swift
+2025-05-07 16:52:26,472 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 16:52:26,486 - INFO - Groq API connection successful
+2025-05-07 16:52:26,887 - INFO - ====== WebDriver manager ======
+2025-05-07 16:52:29,991 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-07 16:52:30,880 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-07 16:52:57,703 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 16:53:13,963 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 16:53:14,694 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 16:55:29,441 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 16:55:29,455 - INFO - Groq API connection successful
+2025-05-07 16:55:29,715 - INFO - ====== WebDriver manager ======
+2025-05-07 16:55:31,513 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-07 16:55:32,026 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-07 16:55:32,648 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 16:56:23,915 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 16:56:24,160 - INFO - Opened YouTube search for: love story by taylor swift
+2025-05-07 16:56:41,899 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 16:56:43,781 - INFO - Opened application: camera app
+2025-05-07 16:56:52,153 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 16:56:54,552 - INFO - Closed application: camera
+2025-05-07 16:58:57,638 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 16:58:57,659 - INFO - Groq API connection successful
+2025-05-07 16:58:57,943 - INFO - ====== WebDriver manager ======
+2025-05-07 16:59:00,729 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-07 16:59:01,400 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-07 16:59:01,687 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 16:59:17,542 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 16:59:20,127 - INFO - Opened application: system setting
+2025-05-07 16:59:29,014 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 16:59:30,035 - INFO - Closed application: system setting
+2025-05-07 16:59:36,309 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 16:59:37,219 - INFO - Opened application: instagram
+2025-05-07 16:59:47,012 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 16:59:47,026 - WARNING - Unsupported system command: shutdown
+2025-05-07 16:59:57,044 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 16:59:57,518 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 17:00:16,117 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 17:00:17,834 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 17:00:43,361 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 17:00:43,369 - WARNING - Unsupported system command: shutdown
+2025-05-07 17:00:55,312 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 17:00:55,897 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 17:02:17,721 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 17:02:17,744 - INFO - Groq API connection successful
+2025-05-07 17:02:18,031 - INFO - ====== WebDriver manager ======
+2025-05-07 17:02:20,417 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-07 17:02:21,804 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-07 17:02:22,027 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 17:02:46,358 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 17:02:46,883 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 17:02:47,656 - INFO - Content saved to Data\content_my_friend_in_hindi.txt
+2025-05-07 17:02:47,826 - INFO - Opened Data\content_my_friend_in_hindi.txt in text editor
+2025-05-07 17:03:02,678 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 17:03:02,979 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 17:03:33,355 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 17:03:33,715 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 17:03:53,772 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 17:03:54,085 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 17:04:27,516 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 17:04:27,835 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 17:04:43,457 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 17:04:43,796 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 17:05:08,325 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 17:05:08,706 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 17:05:23,719 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 17:05:24,125 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 17:05:45,673 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 17:05:45,981 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 17:06:18,275 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 17:06:18,621 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 19:56:06,927 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 19:56:06,943 - INFO - Groq API connection successful
+2025-05-07 19:56:07,727 - INFO - ====== WebDriver manager ======
+2025-05-07 19:56:15,602 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-07 19:56:15,812 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-07 19:56:15,995 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 19:57:01,797 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 19:57:02,164 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 19:57:36,403 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 19:57:36,753 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 19:57:50,188 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 19:57:50,569 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 19:58:28,674 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 19:58:32,168 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 19:58:44,946 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 19:58:45,277 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 19:59:06,407 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 19:59:06,763 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 19:59:53,961 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 19:59:54,316 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-07 20:00:12,929 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-07 20:00:13,289 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 12:45:40,618 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 12:45:40,652 - INFO - Groq API connection successful
+2025-05-10 12:45:41,134 - INFO - ====== WebDriver manager ======
+2025-05-10 12:45:43,118 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 12:45:43,503 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 12:45:44,001 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 12:45:44,739 - INFO - WebDriver version 136.0.7103.92 selected
+2025-05-10 12:45:44,750 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-10 12:45:44,750 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-10 12:45:45,126 - INFO - Driver downloading response is 200
+2025-05-10 12:45:46,608 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 12:45:49,092 - INFO - Driver has been saved in cache [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92]
+2025-05-10 12:46:10,965 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 12:46:11,477 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 12:46:37,294 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 12:46:38,254 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 12:47:13,321 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 12:47:13,673 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 12:47:31,109 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 12:47:31,580 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 12:47:48,676 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 12:47:49,048 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 12:48:13,986 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 12:48:15,354 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 12:48:38,214 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 12:48:39,271 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 12:49:58,419 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 12:49:58,421 - INFO - Groq API connection successful
+2025-05-10 12:49:58,738 - INFO - ====== WebDriver manager ======
+2025-05-10 12:50:00,856 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 12:50:01,205 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 12:50:01,450 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 12:50:19,515 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 12:50:19,880 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 12:50:41,325 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 12:50:41,708 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 12:51:05,462 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 12:51:05,814 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 12:51:27,421 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 12:51:27,797 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 12:52:01,330 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 12:52:01,675 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:04:51,986 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:04:51,995 - INFO - Groq API connection successful
+2025-05-10 13:04:52,275 - INFO - ====== WebDriver manager ======
+2025-05-10 13:04:54,704 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:04:55,564 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:04:55,895 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 13:05:46,537 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:05:48,036 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:08:36,599 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000023F245FBBB0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3009abd5d26c1d65d36867d7ebfad046/execute/sync
+2025-05-10 13:09:53,131 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:09:53,151 - INFO - Groq API connection successful
+2025-05-10 13:09:53,413 - INFO - ====== WebDriver manager ======
+2025-05-10 13:09:55,290 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:09:55,731 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:09:56,074 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 13:11:50,804 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231F266F8B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7083f23691047aa23f64583377ba6fcb/execute/sync
+2025-05-10 13:11:54,827 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231EBE0B7F0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7083f23691047aa23f64583377ba6fcb/execute/sync
+2025-05-10 13:11:58,871 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231EBE0BB80>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7083f23691047aa23f64583377ba6fcb/execute/sync
+2025-05-10 13:12:07,984 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231EBE4CB50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7083f23691047aa23f64583377ba6fcb/execute/sync
+2025-05-10 13:12:12,017 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231EBE4CD00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7083f23691047aa23f64583377ba6fcb/execute/sync
+2025-05-10 13:12:16,067 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231EBE4CEE0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7083f23691047aa23f64583377ba6fcb/execute/sync
+2025-05-10 13:12:25,217 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231EBE4EC20>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7083f23691047aa23f64583377ba6fcb/execute/sync
+2025-05-10 13:12:29,265 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x00000231EBE4EE30>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/7083f23691047aa23f64583377ba6fcb/execute/sync
+2025-05-10 13:13:56,557 - INFO - Retrying request to /openai/v1/chat/completions in 0.439939 seconds
+2025-05-10 13:13:57,585 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:13:57,599 - INFO - Groq API connection successful
+2025-05-10 13:13:57,954 - INFO - ====== WebDriver manager ======
+2025-05-10 13:14:00,086 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:14:00,463 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:14:00,891 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 13:14:29,637 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:14:29,646 - INFO - Decision: ['general Hello honey how are you.']
+2025-05-10 13:14:31,011 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:14:54,053 - ERROR - MainExecution error: 
+2025-05-10 13:15:04,122 - ERROR - MainExecution error: 
+2025-05-10 13:15:04,353 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:15:04,871 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:15:09,477 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:15:10,503 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:15:11,015 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:15:13,567 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:15:14,078 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:15:14,192 - ERROR - MainExecution error: 
+2025-05-10 13:15:14,291 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:15:15,617 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:15:16,135 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:15:16,498 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:15:24,419 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:15:24,423 - INFO - Decision: ['general Hello.']
+2025-05-10 13:15:24,804 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:15:44,670 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:15:44,673 - INFO - Decision: ['general Can you find the net worth of.']
+2025-05-10 13:15:44,977 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:16:01,042 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:16:01,045 - INFO - Decision: ['realtime elon musk']
+2025-05-10 13:16:02,176 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:16:31,176 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:16:31,182 - INFO - Decision: ['realtime what is the weather news in lucknow?']
+2025-05-10 13:16:32,322 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:17:07,323 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:17:07,328 - INFO - Decision: ['general Tumhen kya lagta hai aaj barish hogi.']
+2025-05-10 13:17:07,787 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:17:33,894 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:17:33,902 - INFO - Decision: ['general Tumhen kya lagta hai garmi abhi aur padegi.']
+2025-05-10 13:17:34,304 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:18:00,845 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:18:00,852 - INFO - Decision: ['general Ham dost log milkar science city jaane ka plan ko cancel kar dena chahie.']
+2025-05-10 13:18:01,227 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:18:18,968 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:18:18,973 - INFO - Decision: ['general idea to achcha hai.']
+2025-05-10 13:18:19,318 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:18:38,999 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:18:39,002 - INFO - Decision: ['general Bata do yaar kam a jaega.']
+2025-05-10 13:18:39,325 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:19:00,178 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:19:00,184 - INFO - Decision: ['general chalo main to milkar.']
+2025-05-10 13:19:00,495 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:19:16,566 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:19:16,571 - INFO - Decision: ['general Suggest karo.']
+2025-05-10 13:19:16,946 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:19:47,337 - ERROR - MainExecution error: 
+2025-05-10 13:19:57,400 - ERROR - MainExecution error: 
+2025-05-10 13:20:07,466 - ERROR - MainExecution error: 
+2025-05-10 13:20:07,625 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:20:08,645 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:20:14,787 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:20:26,588 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:20:26,607 - INFO - Groq API connection successful
+2025-05-10 13:20:26,886 - INFO - ====== WebDriver manager ======
+2025-05-10 13:20:29,606 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:20:30,310 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:20:31,135 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 13:20:53,532 - ERROR - MainExecution error: 
+2025-05-10 13:21:32,873 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:21:32,876 - INFO - Groq API connection successful
+2025-05-10 13:21:33,162 - INFO - ====== WebDriver manager ======
+2025-05-10 13:21:35,026 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:21:35,195 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:21:35,383 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 13:21:58,692 - ERROR - MainExecution error: 
+2025-05-10 13:22:08,768 - ERROR - MainExecution error: 
+2025-05-10 13:22:09,057 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:09,618 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:17,413 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:17,949 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:18,841 - ERROR - MainExecution error: 
+2025-05-10 13:22:19,007 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:19,015 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:19,525 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:20,070 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:20,588 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:21,584 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:22,124 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:23,700 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:24,416 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:24,451 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:27,566 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:28,911 - ERROR - MainExecution error: 
+2025-05-10 13:22:29,126 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:29,654 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:30,807 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:30,907 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:35,621 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-10 13:22:38,986 - ERROR - MainExecution error: 
+2025-05-10 13:25:10,209 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:25:10,225 - INFO - Groq API connection successful
+2025-05-10 13:25:10,509 - INFO - ====== WebDriver manager ======
+2025-05-10 13:25:13,288 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:25:13,620 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:25:13,874 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 13:26:15,457 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:26:15,465 - INFO - Groq API connection successful
+2025-05-10 13:26:15,763 - INFO - ====== WebDriver manager ======
+2025-05-10 13:26:17,618 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:26:17,870 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:26:18,134 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 13:28:03,436 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:28:03,453 - INFO - Groq API connection successful
+2025-05-10 13:28:03,721 - INFO - ====== WebDriver manager ======
+2025-05-10 13:28:05,605 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:28:05,779 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:28:05,965 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 13:29:36,964 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:29:36,979 - INFO - Groq API connection successful
+2025-05-10 13:29:37,264 - INFO - ====== WebDriver manager ======
+2025-05-10 13:29:39,195 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:29:39,438 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:29:39,686 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 13:31:18,391 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:31:18,391 - INFO - Groq API connection successful
+2025-05-10 13:31:18,698 - INFO - ====== WebDriver manager ======
+2025-05-10 13:31:20,669 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:31:20,855 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:31:21,097 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 13:31:43,490 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:31:43,785 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:32:40,808 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:32:40,824 - INFO - Groq API connection successful
+2025-05-10 13:32:41,101 - INFO - ====== WebDriver manager ======
+2025-05-10 13:32:43,124 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:32:43,299 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:32:43,490 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 13:34:39,950 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:34:39,977 - INFO - Groq API connection successful
+2025-05-10 13:34:40,402 - INFO - ====== WebDriver manager ======
+2025-05-10 13:34:42,448 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:34:43,330 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 13:34:43,739 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 13:35:05,946 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:35:06,736 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:35:27,671 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:35:29,115 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:35:48,980 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:35:49,428 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:36:08,831 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:36:09,184 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:36:23,677 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:36:24,009 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:36:40,337 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:36:40,658 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:37:00,915 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:37:01,366 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:37:23,728 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:37:24,061 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:37:43,804 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:37:44,211 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:38:03,459 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:38:03,804 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:38:24,380 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:38:24,775 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:38:47,704 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:38:48,047 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:39:25,695 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:39:26,056 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:39:40,522 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:39:40,849 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:39:56,403 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:39:56,744 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:40:18,658 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:40:19,009 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:40:38,219 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:40:38,609 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:40:50,806 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:40:51,203 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:41:17,822 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:41:18,219 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:41:35,943 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:41:36,275 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:41:48,294 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:41:48,655 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:42:08,266 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:42:08,691 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:42:52,531 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:42:53,457 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:43:40,585 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:43:40,951 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:44:14,990 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:44:15,313 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:44:44,412 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:44:44,718 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:45:05,124 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:45:05,434 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:45:27,622 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:45:27,944 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:46:00,445 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:46:01,827 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:46:36,498 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:46:36,868 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:46:52,431 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:46:52,757 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:47:15,164 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:47:16,083 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:47:40,660 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:47:40,991 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:48:06,344 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:48:06,403 - INFO - Could not open as local app: YOUTUBE is not running
+2025-05-10 13:48:06,840 - WARNING - No suitable links found for: youtube
+2025-05-10 13:48:28,186 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:48:28,515 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:48:46,151 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:48:46,524 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:49:03,236 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:49:03,599 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:49:25,286 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:49:25,594 - INFO - Opened YouTube search for: tum tak song
+2025-05-10 13:50:05,974 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:50:05,984 - WARNING - Unsupported system command: resume music
+2025-05-10 13:50:22,419 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:50:23,733 - INFO - Opened application: system setting
+2025-05-10 13:50:31,218 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:50:32,153 - INFO - Closed application: system second
+2025-05-10 13:50:38,854 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:50:39,685 - INFO - Closed application: whatsapp
+2025-05-10 13:50:57,542 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:50:58,287 - ERROR - Failed to close application: ASSISTANT FOLDER is not running
+2025-05-10 13:51:52,521 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:51:52,842 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:52:07,228 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:52:07,571 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:52:37,941 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:52:38,282 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:53:17,010 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:53:17,347 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:53:52,105 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:53:52,429 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:54:11,140 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:54:11,487 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:54:44,568 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:54:45,421 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:56:07,982 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:56:08,041 - INFO - Opened YouTube search for: mil gaya song on youtube
+2025-05-10 13:56:32,698 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:56:34,161 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 13:56:57,575 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 13:56:57,892 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 15:37:15,268 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 15:37:15,297 - INFO - Groq API connection successful
+2025-05-10 15:37:15,581 - INFO - ====== WebDriver manager ======
+2025-05-10 15:37:19,775 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 15:37:20,048 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-10 15:37:20,246 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 15:37:46,973 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 15:37:47,293 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 15:38:09,178 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 15:38:11,282 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 15:38:45,202 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 15:38:45,538 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 15:39:19,285 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 15:39:19,609 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 15:39:59,965 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 15:40:01,349 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 15:40:15,116 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 15:40:15,443 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 15:40:32,890 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 15:40:33,767 - INFO - Opened application: system setting
+2025-05-10 15:40:45,253 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 15:40:46,129 - INFO - Closed application: system setting
+2025-05-10 15:40:57,407 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 15:40:57,731 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 15:41:31,114 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 15:41:33,591 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 15:41:52,188 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 15:41:52,539 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 15:42:12,907 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 15:42:13,222 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 15:42:54,579 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 15:42:54,910 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 15:43:35,496 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 15:43:35,808 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-10 15:44:12,602 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-10 15:44:12,847 - INFO - Performed Google search for: educational qualification of manoj kumar
+2025-05-11 01:11:49,057 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-11 01:11:49,084 - INFO - Groq API connection successful
+2025-05-11 01:11:49,548 - INFO - ====== WebDriver manager ======
+2025-05-11 01:11:51,441 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 01:11:51,910 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 01:11:52,612 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 01:11:53,080 - INFO - WebDriver version 136.0.7103.92 selected
+2025-05-11 01:11:53,093 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-11 01:11:53,093 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-11 01:11:53,709 - INFO - Driver downloading response is 200
+2025-05-11 01:12:48,103 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 01:12:48,652 - INFO - Driver has been saved in cache [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92]
+2025-05-11 01:13:25,213 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-11 01:13:25,221 - INFO - Decision: ['general How are you?']
+2025-05-11 01:13:25,592 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-11 01:13:57,053 - ERROR - MainExecution error: 
+2025-05-11 01:14:05,368 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-11 01:14:05,373 - INFO - Decision: ['general Image.']
+2025-05-11 01:14:05,858 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-11 01:14:35,406 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-11 01:14:35,410 - INFO - Decision: ['youtube search videos related to india pakistan']
+2025-05-11 01:14:35,484 - ERROR - Task execution failed: 'coroutine' object has no attribute 'run'
+2025-05-11 01:14:45,481 - ERROR - MainExecution error: 
+2025-05-11 01:14:54,583 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-11 01:14:54,591 - INFO - Decision: ['general Hello.']
+2025-05-11 01:14:55,792 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-11 01:15:27,031 - ERROR - MainExecution error: 
+2025-05-11 01:15:36,964 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-11 01:15:36,970 - INFO - Decision: ['general Hello honey.']
+2025-05-11 01:15:37,274 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-11 01:16:09,744 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-11 01:16:09,751 - INFO - Decision: ['realtime Any news related to india pakistan war.']
+2025-05-11 01:16:16,505 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-11 01:16:48,035 - ERROR - MainExecution error: 
+2025-05-11 01:16:58,103 - ERROR - MainExecution error: 
+2025-05-11 01:17:02,583 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-11 01:17:02,588 - INFO - Decision: ['google search (topic)']
+2025-05-11 01:17:02,662 - ERROR - Task execution failed: 'coroutine' object has no attribute 'run'
+2025-05-11 01:17:12,650 - ERROR - MainExecution error: 
+2025-05-11 01:17:42,568 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-11 01:17:42,578 - INFO - Groq API connection successful
+2025-05-11 01:17:42,868 - INFO - ====== WebDriver manager ======
+2025-05-11 01:17:44,721 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 01:17:45,087 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 01:17:45,381 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-11 01:18:05,009 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-11 01:18:05,261 - INFO - Performed Google search for: python tutorials
+2025-05-11 01:19:52,806 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-11 01:19:52,818 - INFO - Groq API connection successful
+2025-05-11 01:19:53,110 - INFO - ====== WebDriver manager ======
+2025-05-11 01:19:54,956 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 01:19:55,309 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 01:19:55,528 - INFO - Driver [C:\Users\LENOVO\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-11 01:20:26,928 - INFO - HTTP Request: POST https://api.cohere.com/v1/chat "HTTP/1.1 200 OK"
+2025-05-11 01:20:27,173 - INFO - Performed YouTube search for: ai agent tutorial
+2025-05-11 01:23:28,871 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-11 01:23:28,892 - INFO - Groq API connection successful
+2025-05-11 01:23:29,189 - INFO - ====== WebDriver manager ======
+2025-05-11 01:23:31,195 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 01:23:31,605 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-11 01:24:03,665 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-05-11 01:24:03,689 - INFO - Groq API connection successful
+2025-05-11 01:24:03,980 - INFO - ====== WebDriver manager ======
+2025-05-11 01:24:05,922 - INFO - Get LATEST chromedriver version for google-chrome
