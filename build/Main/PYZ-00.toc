@@ -1,4 +1,4 @@
-('C:\\Users\\LENOVO\\Desktop\\ANI AI ASSISTANT\\build\\Main\\PYZ-00.pyz',
+('C:\\Users\\LENOVO\\Desktop\\ANI AI ASSISTANT\\build\\main\\PYZ-00.pyz',
  [('AppOpener',
    'c:\\Users\\LENOVO\\Desktop\\ANI AI '
    'ASSISTANT\\.venv\\lib\\site-packages\\AppOpener\\__init__.py',
@@ -42,6 +42,9 @@
    'PYMODULE'),
   ('Backend.TextToSpeech',
    'C:\\Users\\LENOVO\\Desktop\\ANI AI ASSISTANT\\Backend\\TextToSpeech.py',
+   'PYMODULE'),
+  ('Backend.tts',
+   'C:\\Users\\LENOVO\\Desktop\\ANI AI ASSISTANT\\Backend\\tts.py',
    'PYMODULE'),
   ('Frontend', '-', 'PYMODULE'),
   ('Frontend.GUI',
@@ -2385,6 +2388,218 @@
    'PYMODULE'),
   ('colorsys',
    'C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python310\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('comtypes',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.GUID',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\GUID.py',
+   'PYMODULE'),
+  ('comtypes._comobject',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\_comobject.py',
+   'PYMODULE'),
+  ('comtypes._memberspec',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\_memberspec.py',
+   'PYMODULE'),
+  ('comtypes._meta',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\_meta.py',
+   'PYMODULE'),
+  ('comtypes._npsupport',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\_npsupport.py',
+   'PYMODULE'),
+  ('comtypes._post_coinit',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\_post_coinit\\__init__.py',
+   'PYMODULE'),
+  ('comtypes._post_coinit._cominterface_meta_patcher',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\_post_coinit\\_cominterface_meta_patcher.py',
+   'PYMODULE'),
+  ('comtypes._post_coinit.bstr',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\_post_coinit\\bstr.py',
+   'PYMODULE'),
+  ('comtypes._post_coinit.instancemethod',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\_post_coinit\\instancemethod.py',
+   'PYMODULE'),
+  ('comtypes._post_coinit.misc',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\_post_coinit\\misc.py',
+   'PYMODULE'),
+  ('comtypes._post_coinit.unknwn',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\_post_coinit\\unknwn.py',
+   'PYMODULE'),
+  ('comtypes._safearray',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\_safearray.py',
+   'PYMODULE'),
+  ('comtypes._tlib_version_checker',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\_tlib_version_checker.py',
+   'PYMODULE'),
+  ('comtypes._vtbl',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\_vtbl.py',
+   'PYMODULE'),
+  ('comtypes.automation',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\automation.py',
+   'PYMODULE'),
+  ('comtypes.client',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\client\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.client._activeobj',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\client\\_activeobj.py',
+   'PYMODULE'),
+  ('comtypes.client._code_cache',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\client\\_code_cache.py',
+   'PYMODULE'),
+  ('comtypes.client._constants',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\client\\_constants.py',
+   'PYMODULE'),
+  ('comtypes.client._create',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\client\\_create.py',
+   'PYMODULE'),
+  ('comtypes.client._events',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\client\\_events.py',
+   'PYMODULE'),
+  ('comtypes.client._generate',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\client\\_generate.py',
+   'PYMODULE'),
+  ('comtypes.client._managing',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\client\\_managing.py',
+   'PYMODULE'),
+  ('comtypes.client.dynamic',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\client\\dynamic.py',
+   'PYMODULE'),
+  ('comtypes.client.lazybind',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\client\\lazybind.py',
+   'PYMODULE'),
+  ('comtypes.connectionpoints',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\connectionpoints.py',
+   'PYMODULE'),
+  ('comtypes.errorinfo',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\errorinfo.py',
+   'PYMODULE'),
+  ('comtypes.gen',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\gen\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.gen.SpeechLib',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\gen\\SpeechLib.py',
+   'PYMODULE'),
+  ('comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\gen\\_00020430_0000_0000_C000_000000000046_0_2_0.py',
+   'PYMODULE'),
+  ('comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\gen\\_C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4.py',
+   'PYMODULE'),
+  ('comtypes.hresult',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\hresult.py',
+   'PYMODULE'),
+  ('comtypes.messageloop',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\messageloop.py',
+   'PYMODULE'),
+  ('comtypes.patcher',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\patcher.py',
+   'PYMODULE'),
+  ('comtypes.persist',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\persist.py',
+   'PYMODULE'),
+  ('comtypes.safearray',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\safearray.py',
+   'PYMODULE'),
+  ('comtypes.server',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\server\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.stream',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\stream.py',
+   'PYMODULE'),
+  ('comtypes.tools',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\tools\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\tools\\codegenerator\\__init__.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.codegenerator',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\tools\\codegenerator\\codegenerator.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.comments',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\tools\\codegenerator\\comments.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.heads',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\tools\\codegenerator\\heads.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.helpers',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\tools\\codegenerator\\helpers.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.modulenamer',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\tools\\codegenerator\\modulenamer.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.namespaces',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\tools\\codegenerator\\namespaces.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.packing',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\tools\\codegenerator\\packing.py',
+   'PYMODULE'),
+  ('comtypes.tools.codegenerator.typeannotator',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\tools\\codegenerator\\typeannotator.py',
+   'PYMODULE'),
+  ('comtypes.tools.tlbparser',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\tools\\tlbparser.py',
+   'PYMODULE'),
+  ('comtypes.tools.typedesc',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\tools\\typedesc.py',
+   'PYMODULE'),
+  ('comtypes.tools.typedesc_base',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\tools\\typedesc_base.py',
+   'PYMODULE'),
+  ('comtypes.typeinfo',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\comtypes\\typeinfo.py',
    'PYMODULE'),
   ('concurrent',
    'C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python310\\lib\\concurrent\\__init__.py',
@@ -6827,6 +7042,42 @@
    'c:\\Users\\LENOVO\\Desktop\\ANI AI '
    'ASSISTANT\\.venv\\lib\\site-packages\\pyscreeze\\__init__.py',
    'PYMODULE'),
+  ('pythoncom',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('pyttsx3',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\pyttsx3\\__init__.py',
+   'PYMODULE'),
+  ('pyttsx3.driver',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\pyttsx3\\driver.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\pyttsx3\\drivers\\__init__.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers.dummy',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\pyttsx3\\drivers\\dummy.py',
+   'PYMODULE'),
+  ('pyttsx3.drivers.sapi5',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\pyttsx3\\drivers\\sapi5.py',
+   'PYMODULE'),
+  ('pyttsx3.engine',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\pyttsx3\\engine.py',
+   'PYMODULE'),
+  ('pyttsx3.six',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\pyttsx3\\six.py',
+   'PYMODULE'),
+  ('pyttsx3.voice',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\pyttsx3\\voice.py',
+   'PYMODULE'),
   ('pytweening',
    'c:\\Users\\LENOVO\\Desktop\\ANI AI '
    'ASSISTANT\\.venv\\lib\\site-packages\\pytweening\\__init__.py',
@@ -6878,6 +7129,11 @@
   ('pywhatkit.whats',
    'c:\\Users\\LENOVO\\Desktop\\ANI AI '
    'ASSISTANT\\.venv\\lib\\site-packages\\pywhatkit\\whats.py',
+   'PYMODULE'),
+  ('pywin32_system32', '-', 'PYMODULE'),
+  ('pywintypes',
+   'c:\\Users\\LENOVO\\Desktop\\ANI AI '
+   'ASSISTANT\\.venv\\lib\\site-packages\\win32\\lib\\pywintypes.py',
    'PYMODULE'),
   ('queue',
    'C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python310\\lib\\queue.py',

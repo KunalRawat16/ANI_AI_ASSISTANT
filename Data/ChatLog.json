@@ -1,35 +1,35 @@
 [
     {
         "role": "user",
-        "content": "How are you??"
+        "content": "(query)."
     },
     {
         "role": "assistant",
-        "content": "I'm doing great, Kunal! I'm always ready to help and chat with you. I don't get tired or feel emotions, but I'm always happy to assist you with any questions or topics you'd like to discuss!"
+        "content": "It seems like you might have typed something, but it didn't come through clearly. Could you please rephrase or type again what you were trying to ask or say? I'm here to help!"
     },
     {
         "role": "user",
-        "content": "Image.."
+        "content": "I am giving you mathematical expression you have to solve it and listen carefully 28 - 62 - - 72 + - 22 + 95 - 68.."
     },
     {
         "role": "assistant",
-        "content": "Kunal, I'm a virtual assistant, I don't have the ability to display images. However, I can describe an image or provide information about a specific topic. If you have a particular image in mind, feel free to describe it to me, and I'll do my best to help!"
+        "content": "Let me break it down step by step:\n\n1. 28 - 62 = -34\n2. -34 - 72 = -106\n3. -106 + (-22) = -128\n5. -128 + 95 = -33\n6. -33 - 68 = -101\n\nSo, the final answer is -101."
     },
     {
         "role": "user",
-        "content": "Hello.."
+        "content": "Listen carefully 28 - 62 + 74 - 22 + 95 + 68.."
     },
     {
         "role": "assistant",
-        "content": "Hi again, Kunal!"
+        "content": "Let me solve it step by step:\n\n1. 28 - 62 = -34\n2. -34 + 74 = 40\n3. 40 - 22 = 18\n4. 18 + 95 = 113\n5. 113 + 68 = 181\n\nSo, the final answer is 181."
     },
     {
         "role": "user",
-        "content": "Hello honey.."
+        "content": "Hi how are you.?"
     },
     {
         "role": "assistant",
-        "content": "Aw, hi again, sweetheart!"
+        "content": "I'm doing great, thank you for asking again, boss Kunal! Is there anything on your mind that you'd like to talk about or get help with? I'm all ears!"
     },
     {
         "role": "user",
@@ -37,6 +37,30 @@
     },
     {
         "role": "assistant",
-        "content": "Based on the search results I found, it appears that a ceasefire has been in effect since 5pm May 10 (which is about 14 hours ago, given the current time is 01:16:10 Sunday, 11 May 2025). However, there was a mention of a \"gross violation\" of the agreement by Pakistan, according to India's Foreign Secretary."
+        "content": "Based on the search results, it appears that there have been recent developments in the India-Pakistan conflict. Here are some key points:\n\n1. **Operation Social Media**: An article suggests that the India-Pakistan war is not just about borders, but also involves a significant online component.\n2. **NDTV News**: A news article from NDTV mentions that a BJP leader, SS Ahluwalia, has stated that Pakistan chose terrorism as a means to target India after losing wars.\n3. **Fake News and Nuclear Fear**: Another article highlights the spread of fake news and nuclear fear during the conflict, with TV anchors pushing false videos and escalating nuclear threats.\n\nThe most recent information available is from May 25, 2025, which suggests that the situation is ongoing and tensions are still high. However, I don't have any real-time information beyond that date."
+    },
+    {
+        "role": "user",
+        "content": "Make a road map for placement.."
+    },
+    {
+        "role": "assistant",
+        "content": "Here's a roadmap for placement:\n\n**Phase 1: Self-Assessment (Weeks 1-2)**\n\n1. Identify your strengths, weaknesses, and interests\n2. Set clear, measurable, and achievable goals\n3. Update your resume and LinkedIn profile\n\n**Phase 2: Company Research (Weeks 3-4)**\n\n1. Research top companies in your desired industry\n2. Analyze job descriptions, salary ranges, and company cultures\n3. Create a list of target companies and their job openings\n\n**Phase 3: Networking (Weeks 5-6)**\n\n1. Attend industry events, seminars, and job fairs\n2. Connect with professionals on LinkedIn and reach out for advice\n3. Leverage your college alumni network and friends' connections\n\n**Phase 4: Application and Preparation (Weeks 7-10)**\n\n1. Customize your resume and cover letter for each job application\n2. Prepare for common interview questions and practice with mock interviews\n3. Develop a portfolio or projects to showcase your skills**\n\n**Phase 5: Interview and Follow-up (Weeks 11-12)**\n\n1. Attend interviews and be prepared to talk about your skills, experience, and goals\n2. Send thank-you emails and follow up with the hiring manager\n3. Negotiate salary and job terms once you receive an offer\n\n**Additional Tips**\n\n* Stay organized and track your progress\n* Be proactive and persistent in your job search\n* Continuously learn and improve your skills and knowledge\n\nThis roadmap provides a structured approach to your placement journey. Remember to stay flexible and adapt to changing circumstances. Good luck!"
+    },
+    {
+        "role": "user",
+        "content": "Hello honey how are you.?"
+    },
+    {
+        "role": "assistant",
+        "content": "Hi boss Kunal! I'm doing fantastic, thanks for asking! How about you? What's on your mind today?"
+    },
+    {
+        "role": "user",
+        "content": "Can you create a road map for me as a to get a job in it company as a fresher.?"
+    },
+    {
+        "role": "assistant",
+        "content": "Here's a roadmap to help you get a job in an IT company as a fresher:\n\n**Month 1-2: Building Foundations**\n\n1. **Update your online profiles**: Create a professional LinkedIn profile, and make sure your other social media profiles are professional.\n2. **Create a personal website or blog**: Showcase your skills, projects, and achievements.\n3. **Develop a strong resume**: Tailor your resume to the IT industry, and get it reviewed by professionals.\n4. **Learn the basics**: Focus on programming languages like Java, Python, or C++, and get familiar with databases and operating systems.\n\n**Month 3-4: Skill Development**\n\n1. **Take online courses**: Enroll in courses on platforms like Coursera, edX, or Udemy to learn in-demand skills like AI, machine learning, or cloud computing.\n2. **Work on projects**: Apply your skills to real-world projects, and showcase them on your website or GitHub.\n3. **Participate in coding challenges and hackathons to improve your coding skills.\n4. **Read industry-relevant books and articles**: Stay updated with the latest technologies and trends.\n\n**Month 5-6: Networking and Job Search**\n\n1. **Attend industry events and seminars**: Network with professionals, and learn about new opportunities.\n2. **online communities and forums**: Engage with developers, and stay informed about job openings.\n3. **Apply for internships or part-time jobs**: Gain industry experience, and build connections.\n\n**Month 7-12: Interview Prep and Follow-up**\n\n1. **Prepare for common interview questions**: Practice coding, and prepare to talk about your projects and skills.\n2. **Create a portfolio**: Showcase your projects, and be ready to talk about them.\n3. **Stay organized**: Track your job applications, and follow up with the companies.\n4. **Be persistent**: Don't get discouraged by rejections, and keep applying.\n\n**Additional Tips**\n\n* **Stay flexible**: Be open to different roles, and industries.\n* **Learn from rejections**: Use them as opportunities to improve.\n* **Stay positive and patient**: It may take time, but with persistence and hard work, you'll get there!\n\nThis roadmap will help you build a strong foundation, develop in-demand skills, and increase your chances of getting hired as a fresher. Good luck!"
     }
 ]

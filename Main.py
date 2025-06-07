@@ -14,6 +14,7 @@ from Backend.Automation import Automation
 from Backend.SpeechToText import SpeechRecognition
 from Backend.Chatbot import ChatBot
 from Backend.TextToSpeech import TextToSpeech
+from Backend.tts import speak_offline
 from dotenv import dotenv_values
 from asyncio import run
 from time import sleep
@@ -133,6 +134,7 @@ def MainExecution():
         ShowTextToScreen(f"{Assistantname}: {Answer}")
         SetAssistantStatus("Answering...")
         TextToSpeech(Answer)
+        # speak_offline(Answer)
         return True
     
     else:
@@ -145,6 +147,7 @@ def MainExecution():
                 ShowTextToScreen(f"{Assistantname}: {Answer}")
                 SetAssistantStatus("Answering...")
                 TextToSpeech(Answer)
+                # speak_offline(Answer)
                 return True
             
             elif "realtime" in Queries:
@@ -154,6 +157,7 @@ def MainExecution():
                 ShowTextToScreen(f"{Assistantname}: {Answer}")
                 SetAssistantStatus("Answering...")
                 TextToSpeech(Answer)
+                # speak_offline(Answer)
                 return True
             
             elif "exit" in Queries:
@@ -162,6 +166,7 @@ def MainExecution():
                 ShowTextToScreen(f"{Assistantname}: {Answer}")
                 SetAssistantStatus("Answering...")
                 TextToSpeech(Answer)
+                # speak_offline(Answer)
                 SetAssistantStatus("Answering...")
                 os._exit(1)
                 
